@@ -3,10 +3,10 @@
 # If you want to start application:
 
     1. Git clone
-    3. cp .env.example .env
-    4. Add your glovo ApiKey and SecretKey to .env. And add your openCage ApiKey to .env.
-    5. sudo docker build -t <your-name>/after-glovo .
-    6. sudo docker run --env-file ./.env -p 4040:4040 -d <your-name>/after-glovo
+    2. cp .env.example .env
+    3. Add your glovo ApiKey and SecretKey to .env. And add your openCage ApiKey to .env.
+    4. sudo docker build -t <your-name>/after-glovo .
+    5. sudo docker run --env-file ./.env -p 4040:4040 -d <your-name>/after-glovo
 
 # Routes
 
