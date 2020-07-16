@@ -33,3 +33,8 @@ Response Example -> {
                                     }
                             }
                     } 
+
+# Test
+
+If you want start testing run :
+    npm test 
